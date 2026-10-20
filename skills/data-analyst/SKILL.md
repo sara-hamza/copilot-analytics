@@ -1,7 +1,7 @@
 ---
 name: data-analyst
 description: This skill should be used when a staff member in any team provides a CSV or XLSX export (tickets, orders, faults, costs, stock, any extract) and asks "find anything unusual", "profile this", "are there outliers", "what changed week over week", "trend this by month", "explain this in plain English". Local only; it describes what the data shows and does not over-claim causes.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Data Analyst
